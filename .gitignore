@@ -11,3 +11,6 @@ package-lock.json
 
 # Visual Studio Code
 .vscode
+
+#configs
+keys.js
