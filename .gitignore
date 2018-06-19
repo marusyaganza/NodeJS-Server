@@ -13,4 +13,4 @@ package-lock.json
 .vscode
 
 #configs
-keys.js
+dev.js
